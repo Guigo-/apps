@@ -203,6 +203,7 @@
     },
     "covoiturage": {
         "branch": "master",
+        "level": 2,
         "revision": "613412a74efebca52a8c4e213abf56443056f610",
         "state": "working",
         "url": "https://framagit.org/ljf/covoiturage_ynh"
@@ -499,7 +500,7 @@
     },
     "haste": {
         "branch": "master",
-        "level": 7,
+        "level": 0,
         "revision": "e7439b9cc48f170621ad3e8ceddbba29e0a36012",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/haste_ynh"
@@ -540,7 +541,7 @@
     },
     "hubzilla": {
         "branch": "master",
-        "level": 0,
+        "level": 3,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/hubzilla_ynh"
@@ -699,7 +700,7 @@
     },
     "mailman": {
         "branch": "master",
-        "level": 3,
+        "level": 7,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/yunohost-apps/mailman_ynh"
@@ -798,7 +799,7 @@
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/monitorix_ynh"
     },
-     "moodle": {
+    "moodle": {
         "branch": "master",
         "revision": "HEAD",
         "state": "inprogress",
@@ -845,17 +846,18 @@
         "state": "notworking",
         "url": "https://github.com/YunoHost-Apps/munin_ynh"
     },
+    "my-mind": {
+        "branch": "master",
+        "level": 3,
+        "revision": "HEAD",
+        "state": "working",
+        "url": "https://github.com/YunoHost-Apps/my-mind_ynh"
+    },
     "mycryptochat": {
         "branch": "master",
         "revision": "94868a77cc584f789e358b250e483b083181478c",
         "state": "notworking",
         "url": "https://github.com/mrtino/mycryptochat_ynh"
-    },
-     "my-mind": {
-        "branch": "master",
-        "revision": "HEAD",
-        "state": "working",
-        "url": "https://github.com/YunoHost-Apps/my-mind_ynh"
     },
     "mytinytodo": {
         "branch": "master",
@@ -893,6 +895,7 @@
     },
     "odoo": {
         "branch": "master",
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/Yunohost-Apps/odoo_ynh"
@@ -1109,7 +1112,7 @@
     },
     "scrumblr": {
         "branch": "master",
-        "level": 5,
+        "level": 0,
         "revision": "9971b5666ed8daedda170c5c221b364ecee52215",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/scrumblr_ynh"
@@ -1365,6 +1368,7 @@
     },
     "wekan": {
         "branch": "master",
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/wekan_ynh"
@@ -1378,6 +1382,7 @@
     },
     "wifiwithme": {
         "branch": "master",
+        "level": 0,
         "revision": "14e01a3981bde7192e100b1f9cfa50e95d6cb89b",
         "state": "working",
         "url": "https://code.ffdn.org/ljf/wifiwithme_ynh"
@@ -1396,7 +1401,7 @@
     },
     "yourls": {
         "branch": "master",
-        "level": 1,
+        "level": 0,
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/yourls_ynh"
